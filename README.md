@@ -1,1 +1,5 @@
-### Hi there 👋
+### Hi there 👋, my name is Fran 🧔.
+
+I'm Frontend Engineer. I mean, I normally do Frontend for a living, but my real passion is writing software in general, so I see myself more as a Software Engineer. I like though writing software for the web, so I tend to stay close to it, building not only Frontend, but whenever I have a chance also Backend. I definitele love Javascript and all the ecosystem around it, but I'm not a big fan of big libraries or frameworks such as React, Angular, Vue, etc... They're great tools to build scalable and maintanable Frontend software, bringing tons of benefits. My problem is that they're all quite opinionated, nothing really wrong with that, but I tend to have a problem with tools shaping and forcing the way I write software.
+
+I'm extremelly passionate about Machine Learning, specially Deep Learning and Deep Reinforcement Learning. And this is not just a passion, I'm a practitioner and sort of a researcher in such topics. I spend tons of hours not only learning, but also practicing, working on personal projects. Github is my witness. It knows how many projects I've worked on, and keeps track of it...
