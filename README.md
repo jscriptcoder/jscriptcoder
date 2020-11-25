@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Fran 🧔
+### Hi there 👋
 
 I'm a Frontend Engineer. I do Frontend for a living, but my real passion is writing software in general, so I see myself more as a Software Engineer. I like though writing software for the web, and I tend to stay close to it, building not only Frontend but also Backend. I love Javascript language and all the ecosystem around it. Big fan of both Browser and Nodejs platforms. 
 
