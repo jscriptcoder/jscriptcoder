@@ -6,4 +6,4 @@ I'm not very enthusiastic about big libraries or frameworks such as React, Angul
 
 I'm extremelly passionate about Machine Learning, specially Deep Learning and Deep Reinforcement Learning. And this is not just a passion, I'm a practitioner and sort of a researcher in such topics. I spend tons of hours not only learning, but also practicing, working on personal projects. Github is my witness. It knows how many projects and researches I've worked on, and keeps track of it. This passion has led me to Python language, which I ended up quite fond of.
 
-In my ideal world, I'm a Fullstack Software Developer building AI systems for the web.
+Last but not least, Web 3.0 is what's keeping me busy these days. I'm strong believer in decentralization, and moving from traditional web2 development to web3 with smart contracts on the blockchain. I spend a lot of time learning Solidity, and all the ecosystem around building decentralized apps on the Ethereum network.
