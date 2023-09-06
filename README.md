@@ -8,4 +8,4 @@ I'm extremely passionate about Machine Learning, specially Deep Learning and Dee
 
 Last but not least, Web 3.0 is what's keeping me busy these days. I'm strong believer in decentralization, and moving from traditional web2 development to web3 with smart contracts on the blockchain. I spend a lot of time learning Solidity, and all the ecosystem around building decentralized apps on the Ethereum network.
 
-My Github is keeping track of my evolution as a Software Engineer. Go check it out if you're curios about what I'm currently up to: https://github.com/jscriptcoder
+My Github is keeping track of my evolution as a Software Engineer. You can also go check out my [LinkedIn profile](https://www.linkedin.com/in/jscriptcoder/)
